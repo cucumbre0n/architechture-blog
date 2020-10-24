@@ -34,7 +34,7 @@ img {
 /* set 2: angles */
 
 .d {
-   grid-area: 4 / 13 / 12 / 15;
+   grid-area: 5 / 1 / 12 / 7;
 }
 
 .e {
@@ -45,14 +45,10 @@ img {
 
 }
 
-.e, .f,  .h, .i, .k, .l, .n, .o {
-  display: none;
-}
-
 /* set 3: pattern play */
 
 .g {
-  grid-area: 6 / 5 / 7 / 15;
+  grid-area: 11 / 3 / 16 / 13;
 }
 
 .h {
@@ -66,7 +62,7 @@ img {
 /* set 4: healing house */
 
 .j {
-  grid-area: 7 / 6 / 8 / 16;
+  grid-area: 15 / 1 / 22 / 7;
 }
 
 .k {
@@ -80,7 +76,7 @@ img {
 /* set 5: curved perfection */
 
 .m {
-  grid-area: 8 / 6 / 9 / 17;
+  grid-area: 21 / 3 / 27 / 13;
 }
 
 .n {
